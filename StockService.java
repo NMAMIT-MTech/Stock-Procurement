@@ -11,3 +11,4 @@ public interface StockService {
 	public void deleteStock(int id);
 
 }
+
